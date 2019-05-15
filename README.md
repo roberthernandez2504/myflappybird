@@ -1,2 +1,3 @@
 # myflappybird
 empty repo
+* notes
